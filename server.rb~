@@ -95,7 +95,7 @@ def run
   request = @socket.gets
   client=""
   method, path, payload = request.split(' ')
-  puts method
+  #puts method
   #puts path
  # puts payload
 
