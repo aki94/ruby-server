@@ -12,5 +12,9 @@ to run server file
 1.install ruby
 2.cd into the folder where file is located and then run ruby server.rb
 3. then use curl to generate request as mention above.
+<<<<<<< HEAD
 4.use multiple request for better result.
+=======
+
+>>>>>>> 25dc277a366d2165567ea3a14a41a9a0c0f4a6f5
 
